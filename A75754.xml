@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Asystata. The repugnancy and inconsistency of the maintenance of an orthodox ministery, and tolleration of heretical opinions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75754</idno>
+            <idno type="STC">Wing A4087</idno>
+            <idno type="STC">Thomason E986_2</idno>
+            <idno type="STC">ESTC R207760</idno>
+            <idno type="EEBO-CITATION">99866793</idno>
+            <idno type="PROQUEST">99866793</idno>
+            <idno type="VID">168613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168613)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Asystata. The repugnancy and inconsistency of the maintenance of an orthodox ministery, and tolleration of heretical opinions.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title transliterated from Greek.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June. 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168613:1" rendition="simple:additions"/>
+            <p>ἈΣΎΣΤΑΤΑ.</p>
+            <p>THE Repugnancy and Inconſiſtency OF <hi>THE MAINTENANCE</hi> OF AN Orthodox MINISTERY, And Tolleration of HERETICAL OPINIONS.</p>
+            <q>
+               <bibl>2 Cor. 6.14, 15, 16.</bibl>
+               <p>What fellowſhip hath righteouſneſſe with unrighte<g ref="char:EOLhyphen"/>ouſneſſe? What communion hath light with darkneſſe? What concord hath Chriſt with <hi>Belial?</hi> What agreement hath the Temple of God with <hi>Idols?</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Epheſ. 5.11.</bibl>
+               <p>Have no fellowſhip with the unfruitfull workes of dark<g ref="char:EOLhyphen"/>neſſe, but rather reprove them.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Galat. 5.19, 20.</hi>
+               </bibl>
+               <p>Now the workes of the fleſh are manifeſt, which are theſe, &amp;c. variance, wrath, ſtrife, diviſions, hereſies.</p>
+            </q>
+            <q>
+               <bibl>Iſaiah. 5.20, 21.</bibl>
+               <p>Woe unto them that call evill good, and good evill; that put darkneſſe for light, and light for darkneſſe; that put bitter for ſweet, and ſweet for bitter. Woe unto them that are wiſe in their own eyes, and prudent in their own ſight.</p>
+            </q>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168613:2"/>
+            <pb n="3" facs="tcp:168613:2"/>
+            <p n="1">1. <seg rend="decorInit">F</seg>Rom rationall principles it is cleere, that thoſe things that are of contrary quali<g ref="char:EOLhyphen"/>ties are inconſiſtent, becauſe they expell one the other, as fier, and water, light, and darkneſſe, the introduction, or coming in of the one, is the deſtruction of the o<g ref="char:EOLhyphen"/>ther, there is ſuch an antipathy betwixt ſome Trees, that they will not grow and proſper neer one unto the other; the ſtrings made of the guts of the Wolfe and the Lamb, will not hold together in one inſtrument; an Orthodox Miniſtery, and heretical Opinions, are as oppoſite; there<g ref="char:EOLhyphen"/>fore the tolleration of theſe latter, muſt needes overthrow the former.</p>
+            <p n="2">2 Their ends are contrary as their principles and qualities which actuate them; of the Miniſtery,<note place="margin">
+                  <hi>Epheſ.</hi> 4.11, 12, 13, 14.</note> the perfecting of the Saints, edification of the body of Chriſt, keeping Men from being alwayes children, carried about with every winde of Doctrine, &amp;c. of hereſie, and errour, the unſetling of the Saints, o<g ref="char:EOLhyphen"/>verthrow of the body of Chriſt, making Men, and keeping them, children; and, like the waves of the Sea, turned this way, and that way, with every blaſt of erroneous Doctrine.</p>
+            <p>How abſurd therefore is it? For a Phiſitian to ſay he will cure ſuch a man perfectly, keep him in a ſound conſtitution of his body, and yet give him
+<pb n="4" facs="tcp:168613:3"/>leave to eate any thing. For a Gardiner, or Husband<g ref="char:EOLhyphen"/>man, to ſay, they will look to the proſperity, and fruitfullneſſe of their Trees, Herbes, Flowers, Corn, and yet ſuffer the ſuckers weeds to grow, and over<g ref="char:EOLhyphen"/>grow the reſt. For States-men to ſay, they will take care of the Common-weale, and ſuffer the commo<g ref="char:EOLhyphen"/>tions, and troubles therein, with their cauſes, (which hereſies and errours too have no ſmall influence into) to abound: This is like the practice of late, the Act for ſanctification of the Lords day, (a Mock-act, ſmelling ſtrongly of hypocriſie, that moſt odious ſinne to God and good Men) and yet, men might meet any where to profane it, and draw others ſo to doe, by their wicked doctrines, and practiſes. Should the Lord Ma<g ref="char:EOLhyphen"/>jor of <hi>London,</hi> ſay, he will be very diligent, for the preſervation of the Citty, from the Plague, and other infections and noyſome Di<g ref="char:EOLhyphen"/>ſeaſes, and yet ſuffer all the Carrions and naſti<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe to lye in the ſtreets; who will believe him? So, if our Governours will ſay, they will doe all for the truth, nothing againſt it, and yet beare with that which is moſt againſt it, who will be induced to imagine the poſſibility of it?</p>
+            <p n="3">3. What hath been the practice of pious Princes, amongſt the <hi>Jewes, Chriſtians,</hi> the Scrip<g ref="char:EOLhyphen"/>tures, and Eccleſiaſticall Hiſtories, abundantly witneſſe; They did, not onely ſet up, and maintaine the true, and pure worſhip of God;
+<pb n="5" facs="tcp:168613:3"/>but removed every thing that was deſtructive, and impeditive thereof, and this they did, by command from God, which is ſtill in force: the ground, and reaſon thereof, being ſtill in force, and there being no repeale thereof. Do any thinke, that God is not zealous now for his glory, as heretofore? and ſhould not his Deputy be ſo too? By what artifices, hath the POPE held up his bundle of Hereſies? by hindring, remooveing, deſtroying that which would deſtroy it.</p>
+            <p>Maſter NEWCOMB'S Sermon, on the fifth day of <hi>November,</hi> 1642. The BOHEMIAN PERSECUTION. <hi>CONTZENS ARTIFICE,</hi> to expell the proteſtant Religion, and the Practices of our Biſhops, and the BOHEMIAN PAPISTS, according thereunto, are ſtale odious things; and why then, ſhould they bee imitated, by thoſe, that profeſſe ſuch great love to the PROTESTANT RELIGION? Can it ariſe from better Principles? Or produce any better fruit? Let all unprejudiced reaſonable Men judge.</p>
+            <p n="4">
+               <pb n="6" facs="tcp:168613:4"/> 4 From the event, or rather naturall effect, which it alwayes produced, it hath over-throwne the Miniſtery, and conſequently the worſhip of God, (which conſequence many will deny even againſt ſenſe and experience) in all places and ages of the world, under all modells and formes of government, and laide thoſe various governments to<g ref="char:EOLhyphen"/>gether with the people under them in the duſt. Look upon the Jewiſh Nation beautified ſo exceedingly, and beloved of her God, the Q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een and Princeſs of the Provinces, did not her Kings &amp; rulers by ſuffering Idols, as many as their Cities, cauſe her moſt glorious &amp; jealous husband to depart from her, and give her a bill of divorce, and deliver her into the hands of her enemies, and did not her miſery come in at this door, the pollution of, y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a trampling under foote her Prieſt-hood, and all the holy appointments of God by that Toleration. Did it not preſently after the rejection and cru<g ref="char:EOLhyphen"/>cifixion of their expected <hi>Meſſiah,</hi> the fruit of their many ſects and diviſions bring inevitable deſolation upon them, under which they lye to this day. Did n<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the pol<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>heiſme of the Heathens, like a worme, eate aſund<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the rootes of their ſeemingly eternally ſettled Monarchies, common<g ref="char:EOLhyphen"/>wealths, and Nations? Is it not in the mouths of moſt? That the Toleration of ſports on the Lords day, winking at the Biſhops introduction of Popery, out off <hi>Charles Stew<g ref="char:EOLhyphen"/>ard,</hi> him and his, ſtubbed up <hi>Epiſcopacy,</hi> Rooſe and Branch, which would have rooted up the godly Miniſtery. Have you ſo ſoone forgotten, that this Carnall <hi>Stratagem,</hi> in the late Lord Protectors dayes, (who therein laid the foundati<g ref="char:EOLhyphen"/>on of all our miſery.) blaſted the Miniſtery, and rendred it very unſucceſsfull. The conſideration whereof, probab<g ref="char:EOLhyphen"/>ly, ſunck his ſpirit, and haſtened his death, and hath he not provided ill, for his poſterity, hereby: though he thought to have eſtabliſhed it? But you will ſay, our neighbours of <hi>Holland</hi> proſper, notwithſtanding their practiſing the
+<pb n="7" facs="tcp:168613:4"/>ſame. How can you ſay ſo? Have not you been under God, the inſtruments of his vengeance upon them? have they not loſt the power of godlyneſſe; doe we not follow them apace; can we looke upon them, but as a people haſtening to their period? and ſhall we dreame of an ex<g ref="char:EOLhyphen"/>emption, from their plagues, being guilty of their ſins; allowed of and eſtabliſhed by a Law; what can be obje<g ref="char:EOLhyphen"/>cted, from ſcripture unwreſted, and right reaſon, I know not. What hath beene, to the unhallowed violation, of the divine oracles, and abuſe of reaſon, hath been fully anſwered by thoſe, that have wrote, of the Magiſtrates power in taking care for the obſervation of the whole Law of God, and againſt the Toleration of all, or, ſome erroneous opinions: And the ſo much meerely pretended liberty of conſcience. I will not, <hi>actum agere,</hi> but pray you to looke into them. Wherefore con<g ref="char:EOLhyphen"/>ſider, O yee heads, of the Tribes of our <hi>Iſrael,</hi> in whom is the quinteſſence of reaſon, is it ſuitable to your wiſdome, to make reſolves, militant, one againſt the other: Deſtructive one of another? Should not the wiſedome of the onely wiſe God, and his authority preponderate your conceites,<note place="margin">Pſal. <hi>2.10, 11, 12.</hi> Fourth and Fifth Com<g ref="char:EOLhyphen"/>mande<g ref="char:EOLhyphen"/>ment, Rev. <hi>2.2.20.</hi>
+               </note> and make you ſtoope and yield ſubmiſſively to him? Would you not have others yield obedience to you, in your lawfull com<g ref="char:EOLhyphen"/>mands? and will you not give the ſame to <hi>Jehovah</hi> the righteous Law-giver and Judge of the World; Though you have power to caſt downe Monarchies here on earth, are you ſo foole hardy, as to kick againſt the pricks, in oppoſing his ſupreame Monarchicall Soveraignty; muſt you not be brought to his bar in the moſt glorious Parlia<g ref="char:EOLhyphen"/>ment of Angels, and Saints that ever will ſit; how will you anſwer Chriſt, for preſerring your owne imaginations before his revealed will, in his word; for deſigning, any of you, the erecting the Idols, you dote upon, and adore,
+<pb n="8" facs="tcp:168613:5"/>upon the ruines, and blood of Millions in theſe Nations. What evaſions, and diſtinctions, will helpe you? When you are required to give an account, of the hinderance of the propagation of the Goſpell, converſion of ſoules, and the glory accrewing to God thereby. How will you an<g ref="char:EOLhyphen"/>ſwer the people, that have truſted you with all that is deare to them? How will you ſtill the Clamour of their owne conſciences? Which will ſpeake, out, one day, when you will have more leaſure to heare them. With what heart can you, now, or will you hereafter heare, the Lamentable cryes of the ſoules murdered by your bloody hands? Have you no bowells of pitty and compaſſion in you? Have you greater mercy for the wolves then the ſheep? O cruell bloody mercyes! Where is the ſincerity of your love to that Chriſt you owne if you are to ſeede hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſheepe, as Chriſti<g ref="char:EOLhyphen"/>ans, and ſee them, fed as Magiſtrates, with wholeſome food, will you let them graze any where, on any po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſonous and banefull herbe? Our love to Chriſt here i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, by our love to his members, and ſhould not his truth be <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to you, then your lives, eſtates, &amp;c. Much more opinion? and can you love it, and hugge its enemies in your owne boſomes, and in others? is it not very ſinfull, to Tolerate evill in your ſelves? much more in others, moſt of all to enact it by a Law. The good Lord, keepe you, from further kindling his wrath, that hath burnt already, ſo hot, and ſo long, againſt theſe three Nations, haſtening to ther finall conſumption. <hi>Amen Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
